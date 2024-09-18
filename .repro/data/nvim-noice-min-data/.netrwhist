@@ -1,5 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
-let g:netrw_dirhist_3='c:/Users/bwilliams/AppData/Local/nvim-noice-min'
-let g:netrw_dirhist_2='c:/Users/bwilliams/AppData/Local/nvim-noice-min/.repro'
-let g:netrw_dirhist_1='c:\Users\bwilliams\AppData\Local\nvim-noice-min'
