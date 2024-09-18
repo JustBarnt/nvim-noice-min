@@ -1,4 +1,4 @@
-# Noice min-itit
+# Noice min-init
 
 To Replicate
 - Windows using PWSH run: `$ENV:NVIM_APPNAME = "nvim-noice-min"; nvim @args`
